@@ -1587,9 +1587,6 @@ span.search_close:hover .close_whiter{
   opacity: 0;
 }
 
-.word_first{
-  width: 160px; 
-}
 
 .letter {
   display: inline-block;
