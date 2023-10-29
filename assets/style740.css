@@ -546,3 +546,12 @@ li.mobile_search{
 .word_four{
     display: inline-block;
 }
+
+p.certificates_heading {
+    width: 400px;
+}
+
+.word_four{
+    margin-top: 0px;
+   margin-left: 0px;
+}
