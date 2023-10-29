@@ -330,3 +330,7 @@ p.stocks_heading,
 p.stocks_text{
     width: 290px;
 }
+
+p.certificates_heading {
+    width: 300px;
+}
