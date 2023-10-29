@@ -538,3 +538,11 @@ li.mobile_search{
 #mobileSearch{
     margin: 0px;
 }
+
+.overflow_container{
+    height: 60px;
+}
+
+.word_four{
+    display: inline-block;
+}
