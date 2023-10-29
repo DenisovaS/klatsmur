@@ -356,6 +356,9 @@ p.nav_title{
     }
 }
 
+/*.word_four*/
+
+/*#wordFour*/
 .word_four{
     margin-top: 35px;
    margin-left: -430px;
@@ -364,4 +367,8 @@ p.nav_title{
 .word_second{
     margin-top: 35px;
    margin-left: -450px;
+}
+
+.advantage_four{
+    width: 550px;
 }

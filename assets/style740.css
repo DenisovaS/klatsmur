@@ -528,12 +528,7 @@ nav ul li a, nav ul li{
     }
 }
 
-.mobileSearchButton{
-/*
-    position: relative;
-    top: -15px;
-*/
-}
+
 
 li.mobile_search{
     display: flex;

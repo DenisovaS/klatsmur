@@ -325,3 +325,8 @@ p.article_title{
     margin-top: 0px;
    margin-left: 0px;
 }
+
+p.stocks_heading,
+p.stocks_text{
+    width: 290px;
+}
